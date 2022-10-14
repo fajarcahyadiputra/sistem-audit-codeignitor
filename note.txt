@@ -1,0 +1,11 @@
+- notif whatsapp 
+- laporan akhir
+- bisa upload 1 dokumen lebih dalam 1 jadwal audit
+- tambahin bagian qs 4w
+- insert user jika insert auditee akan ada tambahan select option pilih bagian
+
+======
+
+- dibawah kisi2 tambahkan deskripsi setiap document yang di tambah
+
+"bcrypt": "^5.0.1",
